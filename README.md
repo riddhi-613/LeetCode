@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/riddhi-613/LeetCode/tree/master/0066-plus-one) |
 | [3582-find-indices-of-stable-mountains](https://github.com/riddhi-613/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
@@ -40,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/riddhi-613/LeetCode/tree/master/0066-plus-one) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/riddhi-613/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
