@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0898-transpose-matrix) |
+| [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [3194-find-words-containing-character](https://github.com/riddhi-613/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/riddhi-613/LeetCode/tree/master/3321-type-of-triangle) |
 | [3582-find-indices-of-stable-mountains](https://github.com/riddhi-613/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/riddhi-613/LeetCode/tree/master/0066-plus-one) |
+| [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/riddhi-613/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3321-type-of-triangle](https://github.com/riddhi-613/LeetCode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [3321-type-of-triangle](https://github.com/riddhi-613/LeetCode/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
@@ -61,9 +64,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0898-transpose-matrix) |
+| [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0898-transpose-matrix) |
+## Geometry
+|  |
+| ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
