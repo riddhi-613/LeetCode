@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/riddhi-613/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/riddhi-613/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/riddhi-613/LeetCode/tree/master/0069-sqrtx) |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/riddhi-613/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3321-type-of-triangle](https://github.com/riddhi-613/LeetCode/tree/master/3321-type-of-triangle) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/riddhi-613/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
