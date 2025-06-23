@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riddhi-613/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/riddhi-613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0566-reshape-the-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/riddhi-613/LeetCode/tree/master/0605-can-place-flowers) |
 | [0777-toeplitz-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0898-transpose-matrix) |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
@@ -103,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/riddhi-613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/riddhi-613/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
