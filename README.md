@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/riddhi-613/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/riddhi-613/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/riddhi-613/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/riddhi-613/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/riddhi-613/LeetCode/tree/master/3321-type-of-triangle) |
 | [3582-find-indices-of-stable-mountains](https://github.com/riddhi-613/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/riddhi-613/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1894-merge-strings-alternately](https://github.com/riddhi-613/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Recursion
 |  |
 | ------- |
