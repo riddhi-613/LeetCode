@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/riddhi-613/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/riddhi-613/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/riddhi-613/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/riddhi-613/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/riddhi-613/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/riddhi-613/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/riddhi-613/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/riddhi-613/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/riddhi-613/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/riddhi-613/LeetCode/tree/master/0069-sqrtx) |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/riddhi-613/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/riddhi-613/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/riddhi-613/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
