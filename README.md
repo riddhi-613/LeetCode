@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/riddhi-613/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/riddhi-613/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/riddhi-613/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riddhi-613/LeetCode/tree/master/0242-valid-anagram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/riddhi-613/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/riddhi-613/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/riddhi-613/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/riddhi-613/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/riddhi-613/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/riddhi-613/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/riddhi-613/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/riddhi-613/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/riddhi-613/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/riddhi-613/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/riddhi-613/LeetCode/tree/master/0263-ugly-number) |
