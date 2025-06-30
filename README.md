@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/riddhi-613/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/riddhi-613/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/riddhi-613/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/riddhi-613/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/riddhi-613/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/riddhi-613/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/riddhi-613/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/riddhi-613/LeetCode/tree/master/0242-valid-anagram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/riddhi-613/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/riddhi-613/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Linked List
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/riddhi-613/LeetCode/tree/master/0242-valid-anagram) |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [3321-type-of-triangle](https://github.com/riddhi-613/LeetCode/tree/master/3321-type-of-triangle) |
 ## Matrix
