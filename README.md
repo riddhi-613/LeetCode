@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/riddhi-613/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/riddhi-613/LeetCode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/riddhi-613/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/riddhi-613/LeetCode/tree/master/0263-ugly-number) |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/riddhi-613/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/riddhi-613/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/riddhi-613/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/riddhi-613/LeetCode/tree/master/0258-add-digits) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/riddhi-613/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
