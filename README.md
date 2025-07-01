@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/riddhi-613/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/riddhi-613/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/riddhi-613/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/riddhi-613/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riddhi-613/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -168,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/riddhi-613/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/riddhi-613/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
