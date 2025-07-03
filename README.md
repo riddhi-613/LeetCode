@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/riddhi-613/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riddhi-613/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/riddhi-613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/riddhi-613/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/riddhi-613/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/riddhi-613/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/riddhi-613/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/riddhi-613/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/riddhi-613/LeetCode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
