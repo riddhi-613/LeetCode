@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/riddhi-613/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/riddhi-613/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/riddhi-613/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2401-count-asterisks](https://github.com/riddhi-613/LeetCode/tree/master/2401-count-asterisks) |
 | [3194-find-words-containing-character](https://github.com/riddhi-613/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/riddhi-613/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
