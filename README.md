@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/riddhi-613/LeetCode/tree/master/0605-can-place-flowers) |
 | [0777-toeplitz-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0898-transpose-matrix) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/riddhi-613/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/riddhi-613/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/riddhi-613/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riddhi-613/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/riddhi-613/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/riddhi-613/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/riddhi-613/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/riddhi-613/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -193,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/riddhi-613/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/riddhi-613/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
