@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/riddhi-613/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/riddhi-613/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/riddhi-613/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1848-sum-of-unique-elements](https://github.com/riddhi-613/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/riddhi-613/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riddhi-613/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/riddhi-613/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/riddhi-613/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/riddhi-613/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/riddhi-613/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/riddhi-613/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Linked List
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/riddhi-613/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riddhi-613/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/riddhi-613/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Number Theory
