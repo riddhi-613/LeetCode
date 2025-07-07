@@ -28,7 +28,7 @@ void generate(int count1, int count0,vector<string> & output, string &ds, int n 
         string ds="";
         vector<string> output;
         generate(0,0,output,ds,n);
-        sort(output.begin(),output.end());
+        //sort(output.begin(),output.end());
     return output;
     }
 };
