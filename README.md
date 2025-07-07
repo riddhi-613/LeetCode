@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/riddhi-613/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2401-count-asterisks](https://github.com/riddhi-613/LeetCode/tree/master/2401-count-asterisks) |
 | [3194-find-words-containing-character](https://github.com/riddhi-613/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/riddhi-613/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3617-find-the-original-typed-string-i](https://github.com/riddhi-613/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/riddhi-613/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/riddhi-613/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/riddhi-613/LeetCode/tree/master/0338-counting-bits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/riddhi-613/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/riddhi-613/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/riddhi-613/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/riddhi-613/LeetCode/tree/master/0090-subsets-ii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/riddhi-613/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
