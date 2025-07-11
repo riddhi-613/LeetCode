@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/riddhi-613/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/riddhi-613/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/riddhi-613/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/riddhi-613/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/riddhi-613/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/riddhi-613/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/riddhi-613/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/riddhi-613/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/riddhi-613/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/riddhi-613/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/riddhi-613/LeetCode/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/riddhi-613/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/riddhi-613/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/riddhi-613/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/riddhi-613/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/riddhi-613/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/riddhi-613/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
