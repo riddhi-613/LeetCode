@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/riddhi-613/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/riddhi-613/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/riddhi-613/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/riddhi-613/LeetCode/tree/master/0326-power-of-three) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/riddhi-613/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/riddhi-613/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/riddhi-613/LeetCode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/riddhi-613/LeetCode/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/riddhi-613/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/riddhi-613/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
