@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/riddhi-613/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/riddhi-613/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/riddhi-613/LeetCode/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/riddhi-613/LeetCode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/riddhi-613/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/riddhi-613/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/riddhi-613/LeetCode/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/riddhi-613/LeetCode/tree/master/0441-arranging-coins) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riddhi-613/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
