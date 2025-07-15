@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/riddhi-613/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2401-count-asterisks](https://github.com/riddhi-613/LeetCode/tree/master/2401-count-asterisks) |
 | [3194-find-words-containing-character](https://github.com/riddhi-613/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/riddhi-613/LeetCode/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/riddhi-613/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3617-find-the-original-typed-string-i](https://github.com/riddhi-613/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
