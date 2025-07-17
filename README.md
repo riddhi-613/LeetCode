@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3396-valid-word](https://github.com/riddhi-613/LeetCode/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/riddhi-613/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3617-find-the-original-typed-string-i](https://github.com/riddhi-613/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3636-check-balanced-string](https://github.com/riddhi-613/LeetCode/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
