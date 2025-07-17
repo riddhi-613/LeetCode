@@ -21,19 +21,21 @@ public:
             path.push_back('-');
             path.push_back('>');
         }
-             binaryPaths(collection,path,temp->left,root);
-             binaryPaths(collection,path,temp->right,root);
-        
         if(temp->left==nullptr && temp->right==nullptr){
             collection.push_back(path);
-            if(path.length()>=3 ){
+           /* if(path.length()>=3 ){
                 path.pop_back();        
                 path.pop_back();  
                 path.pop_back();   
                 path.pop_back();  
-            }
+            }*/
+            return;
                  
         }
+             binaryPaths(collection,path,temp->left,root);
+             binaryPaths(collection,path,temp->right,root);
+        
+        
         
     }
     vector<string> binaryTreePaths(TreeNode* root) {
