@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riddhi-613/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/riddhi-613/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/riddhi-613/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/riddhi-613/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/riddhi-613/LeetCode/tree/master/0051-n-queens) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riddhi-613/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/riddhi-613/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/riddhi-613/LeetCode/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/riddhi-613/LeetCode/tree/master/0441-arranging-coins) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riddhi-613/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
