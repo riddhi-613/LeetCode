@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riddhi-613/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/riddhi-613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/riddhi-613/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/riddhi-613/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/riddhi-613/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/riddhi-613/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/riddhi-613/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/riddhi-613/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/riddhi-613/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/riddhi-613/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/riddhi-613/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/riddhi-613/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/riddhi-613/LeetCode/tree/master/0263-ugly-number) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/riddhi-613/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/riddhi-613/LeetCode/tree/master/0258-add-digits) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/riddhi-613/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/riddhi-613/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/riddhi-613/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/riddhi-613/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riddhi-613/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
