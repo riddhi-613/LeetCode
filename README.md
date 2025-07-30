@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/riddhi-613/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/riddhi-613/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/riddhi-613/LeetCode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/riddhi-613/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/riddhi-613/LeetCode/tree/master/0441-arranging-coins) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riddhi-613/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/riddhi-613/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/riddhi-613/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/riddhi-613/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/riddhi-613/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/riddhi-613/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/riddhi-613/LeetCode/tree/master/0338-counting-bits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/riddhi-613/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/riddhi-613/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riddhi-613/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riddhi-613/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/riddhi-613/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/riddhi-613/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1005-univalued-binary-tree](https://github.com/riddhi-613/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/riddhi-613/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riddhi-613/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riddhi-613/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/riddhi-613/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/riddhi-613/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1005-univalued-binary-tree](https://github.com/riddhi-613/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
