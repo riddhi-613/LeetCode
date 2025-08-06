@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/riddhi-613/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/riddhi-613/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0224-basic-calculator](https://github.com/riddhi-613/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/riddhi-613/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/riddhi-613/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/riddhi-613/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/riddhi-613/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riddhi-613/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riddhi-613/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/riddhi-613/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/riddhi-613/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## Array
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/riddhi-613/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/riddhi-613/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/riddhi-613/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/riddhi-613/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/riddhi-613/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/riddhi-613/LeetCode/tree/master/0326-power-of-three) |
 ## Math
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/riddhi-613/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/riddhi-613/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/riddhi-613/LeetCode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/riddhi-613/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/riddhi-613/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/riddhi-613/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/riddhi-613/LeetCode/tree/master/0258-add-digits) |
