@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/riddhi-613/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/riddhi-613/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/riddhi-613/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/riddhi-613/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/riddhi-613/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/riddhi-613/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/riddhi-613/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/riddhi-613/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/riddhi-613/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/riddhi-613/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/riddhi-613/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/riddhi-613/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0054-spiral-matrix) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/riddhi-613/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/riddhi-613/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/riddhi-613/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/riddhi-613/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/riddhi-613/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/riddhi-613/LeetCode/tree/master/0202-happy-number) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/riddhi-613/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/riddhi-613/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/riddhi-613/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riddhi-613/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/riddhi-613/LeetCode/tree/master/0349-intersection-of-two-arrays) |
