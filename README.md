@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/riddhi-613/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/riddhi-613/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/riddhi-613/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/riddhi-613/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/riddhi-613/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/riddhi-613/LeetCode/tree/master/0118-pascals-triangle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/riddhi-613/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/riddhi-613/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/riddhi-613/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/riddhi-613/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/riddhi-613/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/riddhi-613/LeetCode/tree/master/0217-contains-duplicate) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/riddhi-613/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0898-transpose-matrix) |
