@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/riddhi-613/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/riddhi-613/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1539-diagonal-traverse-ii](https://github.com/riddhi-613/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/riddhi-613/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/riddhi-613/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1848-sum-of-unique-elements](https://github.com/riddhi-613/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/riddhi-613/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/riddhi-613/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1539-diagonal-traverse-ii](https://github.com/riddhi-613/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [3321-type-of-triangle](https://github.com/riddhi-613/LeetCode/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/riddhi-613/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1539-diagonal-traverse-ii](https://github.com/riddhi-613/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 <!---LeetCode Topics End-->
