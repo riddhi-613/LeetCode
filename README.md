@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0777-toeplitz-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0898-transpose-matrix) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/riddhi-613/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/riddhi-613/LeetCode/tree/master/1036-rotting-oranges) |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/riddhi-613/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/riddhi-613/LeetCode/tree/master/1036-rotting-oranges) |
 | [1094-matrix-cells-in-distance-order](https://github.com/riddhi-613/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1677-matrix-diagonal-sum](https://github.com/riddhi-613/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/riddhi-613/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/riddhi-613/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/riddhi-613/LeetCode/tree/master/0112-path-sum) |
 | [1005-univalued-binary-tree](https://github.com/riddhi-613/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/riddhi-613/LeetCode/tree/master/1036-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
