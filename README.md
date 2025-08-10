@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/riddhi-613/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/riddhi-613/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/riddhi-613/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/riddhi-613/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/riddhi-613/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/riddhi-613/LeetCode/tree/master/0078-subsets) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/riddhi-613/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/riddhi-613/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/riddhi-613/LeetCode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/riddhi-613/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/riddhi-613/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/riddhi-613/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/riddhi-613/LeetCode/tree/master/0498-diagonal-traverse) |
