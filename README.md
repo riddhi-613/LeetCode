@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/riddhi-613/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/riddhi-613/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/riddhi-613/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/riddhi-613/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/riddhi-613/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/riddhi-613/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/riddhi-613/LeetCode/tree/master/0053-maximum-subarray) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/riddhi-613/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/riddhi-613/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/riddhi-613/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/riddhi-613/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/riddhi-613/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/riddhi-613/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/riddhi-613/LeetCode/tree/master/0067-add-binary) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/riddhi-613/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/riddhi-613/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/riddhi-613/LeetCode/tree/master/0073-set-matrix-zeroes) |
