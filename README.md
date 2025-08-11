@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/riddhi-613/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/riddhi-613/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/riddhi-613/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/riddhi-613/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/riddhi-613/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/riddhi-613/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/riddhi-613/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/riddhi-613/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Tree
 |  |
 | ------- |
@@ -406,9 +408,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/riddhi-613/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1539-diagonal-traverse-ii](https://github.com/riddhi-613/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/riddhi-613/LeetCode/tree/master/0200-number-of-islands) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/riddhi-613/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/riddhi-613/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
