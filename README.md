@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/riddhi-613/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/riddhi-613/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/riddhi-613/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0496-next-greater-element-i](https://github.com/riddhi-613/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/riddhi-613/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/riddhi-613/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/riddhi-613/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/riddhi-613/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/riddhi-613/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/riddhi-613/LeetCode/tree/master/0542-01-matrix) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/riddhi-613/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/riddhi-613/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riddhi-613/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/riddhi-613/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/riddhi-613/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/riddhi-613/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/riddhi-613/LeetCode/tree/master/0575-distribute-candies) |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/riddhi-613/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/riddhi-613/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
