@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riddhi-613/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/riddhi-613/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3194-find-words-containing-character](https://github.com/riddhi-613/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/riddhi-613/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/riddhi-613/LeetCode/tree/master/3321-type-of-triangle) |
 | [3582-find-indices-of-stable-mountains](https://github.com/riddhi-613/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3790-fruits-into-baskets-ii](https://github.com/riddhi-613/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
